@@ -8,7 +8,7 @@ interface Props {
 function FeaturedProject(props: Props) {
 	return (
 		<div className="py-16 flex flex-col lg:flex-row lg:align-middle">
-			<div>
+			<div className="lg:pt-40">
 				<p className="font-semibold md:text-2xl text-gray-500">Featured project</p>
 				<h1 className="pt-8 text-3xl md:text-5xl text-gray-600 font-serif font-thin">{props.title}</h1>
 				<h1 className="pt-2 text-3xl md:text-5xl text-gray-600 font-serif font-thin">{props.content}</h1>

@@ -2,7 +2,7 @@ import FeaturedProject from "./FeaturedProject";
 import Navbar from "./Navbar";
 
 function HeroComponent() {
-	return (<div className="px-4 py-7 bg-gray-100">
+	return (<div className="px-10 py-7 bg-gray-100">
 		<Navbar />
 		<FeaturedProject title="Reuters News App" content="News On The Move" />
 		<h2 className="py-10 text-center text-gray-500 text-xl md:text-3xl font-thin font-serif">Ueno is a full-service agency, busy designing and building beautiful digital products, brands, and experiences.</h2>

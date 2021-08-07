@@ -3,7 +3,7 @@ import ImageCard from "./ImageCard";
 
 function WorkingGrid() {
 	return (
-		<div className="workingGrid px-4 pb-20 bg-white">
+		<div className="workingGrid px-10 pb-20 bg-white">
 			<header className="workingGridHead flex flex-col pb-10 text-center text-gray-500 text-2xl md:text-4xl font-thin font-serif">
 				<h2>All work, all play</h2>
 				<h2>Selected projects</h2>

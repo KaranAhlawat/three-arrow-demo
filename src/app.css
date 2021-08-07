@@ -13,6 +13,10 @@
 	cursor: pointer;
 }
 
+.nav-links:hover {
+	cursor: pointer;
+}
+
 .fade-in {
   animation: animation-fade-in 1s;
 }

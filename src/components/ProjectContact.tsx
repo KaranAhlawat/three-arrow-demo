@@ -1,6 +1,6 @@
 function ProjectContact() {
 	return (
-		<div className="py-24 px-4">
+		<div className="py-24 px-10">
 			<div>
 				<img className="mx-auto max-w-full h-auto" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGVhbXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="" />
 			</div>
