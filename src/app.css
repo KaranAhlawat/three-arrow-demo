@@ -1,0 +1,10 @@
+.workingGridHead::before {
+	content: "";
+    display: inline-block;
+	position: relative;
+    bottom: 100px;
+    left: 50%;
+    height: 160px;
+    width: 1px;
+	background-color: #e5e5e5;
+}
