@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function MobileNavLinks() {
 
-	const [hidden, setHidden] = useState(true);
+	const [hidden, setHidden] = useState(false);
 
 
 	const handleOnClick = () => {
