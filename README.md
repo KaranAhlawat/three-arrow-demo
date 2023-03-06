@@ -2,7 +2,8 @@
 This repository contains a fully responsive, mobile first landing page modeled after [ueno.](https://ueno.co/) The webpage was created as part of an internship assessment for the Three Arrow company, for the position of a front-end developer.
 
 ## Technologies Used
-- React.js
+- React
+- TypeScript
 - Tailwind CSS
 - Assets from [ueno.](https://ueno.co)
 
